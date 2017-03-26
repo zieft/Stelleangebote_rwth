@@ -1,0 +1,1 @@
+![image](https://github.com/Stelleangebote_rwth/Mindstrom.png)
