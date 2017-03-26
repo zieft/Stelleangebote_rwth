@@ -1,1 +1,1 @@
-![image](https://github.com/zieft/Stelleangebote_rwth/Mindstrom.png)
+![image](https://github.com/zieft/Stelleangebote_rwth/blob/master/Mindstrom.png)
